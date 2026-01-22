@@ -1,5 +1,3 @@
----
-
 # 🧠 DIFFUSION MODEL — CORE MECHANISM
 
 Your model has **only one job**:
